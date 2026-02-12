@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890435775136",
+    "project_id": "app-nutricao-b5330",
+    "storage_bucket": "app-nutricao-b5330.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890435775136:android:f869889f87bb43cc5cb7c5",
+        "android_client_info": {
+          "package_name": "com.grupo07.app_nutricao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwJb5LRlphfaPaZ5091XZrkp7KnXAla04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

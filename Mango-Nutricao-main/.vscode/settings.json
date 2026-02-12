@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "dart.renameFilesWithClasses": "always",
+    "dart.updateImportsOnRename": true,
+    "cmake.sourceDirectory": "C:/Users/Yuri Souza/Documents/GitHub/app_nutricao/windows/runner"
+}
